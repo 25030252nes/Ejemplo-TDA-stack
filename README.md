@@ -1,1 +1,1 @@
-Ejemplo TDA para evaluaciON EN CARPETA STACK TDA
+Ejemplo TDA para evaluacion en carpeta Stack Dta(Dato tipo abrsacto)
